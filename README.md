@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">Integrantes:</h3>
+<h3 align="center">Integrantes:</h3>
 
 ###
 
-<p align="left">🦈José Carmona <br>🦈Melisa Riera<br>🦈Alejandra Carballeira<br>🦈Facundo Rojo<br>🦈Gabriel Valdés <br>🦈Lucas Gallo<br>🦈Magali Cardozo</p>
+<p align="center">🦈José Carmona <br>🦈Melisa Riera<br>🦈Alejandra Carballeira<br>🦈Facundo Rojo<br>🦈Gabriel Valdés <br>🦈Lucas Gallo<br>🦈Magali Cardozo</p>
 
 ###
 
