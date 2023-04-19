@@ -5,8 +5,13 @@
 
 <h2 align="left">Tercer Semestre🧑🏻‍💻</h2>
 
+
 ###
-.
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/104911206/232939844-0ff200f9-f0d8-4c96-9fe4-49cffe859ab6.gif"  />
+</div>
+
+###
 
 <h3 align="left">Integrantes:</h3>
 
@@ -21,6 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
-
 
 ###
