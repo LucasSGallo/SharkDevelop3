@@ -6,7 +6,7 @@
 <h2 align="left">Tercer Semestre🧑🏻‍💻</h2>
 
 ###
-https://user-images.githubusercontent.com/104911206/232937540-48380d71-01b3-42e8-9b54-6a6693a04c4c.mp4 
+.
 
 <h3 align="left">Integrantes:</h3>
 
