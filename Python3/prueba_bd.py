@@ -1,17 +1,21 @@
-import mysql.connector
-
-miConexion=mysql.connector.connect(
-    user='',
-    host='localhost',
-    port= '3306',
-    database='test_bd',
+import psycopg2
+conexion = psycopg2.connect(
+    user='postgres',
+    password='*****',
+    host=127.0.0.1, #'localhost'
+    port=5432,
+    dadabase='test_db'
 )
-#print(miConexion)
-cur =miConexion.cursor()
-sentencia='SELECT * FROM Persona ORDER BY id_persona ASC'
-cur.execute(sentencia)
-registros=cur.fetchall()
-print(registros)
 
-cur.close()
-miConexion.close()
+try:
+    with conexion:
+        with conexion.cursor() as cursor:
+            cursor = conexion.cursor()
+            cursor.execute('SELECT * FROM tb_persona WHERE id_persona = %s',input('Digite el id que necesite')) #place holder (marcador de lugar)
+            registros = cursor.fetchone()
+            print(registros)
+except Exception as e:
+        print(f"Ocurrió un error: {e}")
+finally:
+        #cursor.close() esto ya lo hace el with
+        conexion.close() # pero esto no
