@@ -26,5 +26,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
+<div>
 
+<table>
+  <tr>
+    <td>Semana 1</td>
+    <td>Melisa Riera</td>
+  </tr>
+  <tr>
+    <td>Semana 2</td>
+    <td>Magali Cardozo</td>
+  </tr>
+  <tr>
+    <td>Semana 3</td>
+    <td>Magali Cardozo</td>
+  </tr>
+  <tr>
+    <td>Semana 4</td>
+    <td>Gabriel Valdes</td>
+  </tr>
+  <tr>
+    <td>Semana 5</td>
+    <td>Alejandra Carballeira</td>
+  </tr>
+  <tr>
+    <td>Semana 6</td>
+    <td>Facundo Rojo</td>
+  </tr>
+  <tr>
+    <td>Semana 7</td>
+    <td>Lucas Gallo</td>
+  </tr>
+  <tr>
+    <td>Semana 8</td>
+    <td>Jose Carmona</td>
+  </tr>
+</table>
+
+</div>
 ###
