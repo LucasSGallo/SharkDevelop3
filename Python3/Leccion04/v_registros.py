@@ -9,10 +9,11 @@ conexion = psycopg2.connect(
 try:
     with conexion:
         with conexion.cursor() as cursor:
-            sentencia = 'SELECT * FROM persona WHERE id_persona IN (1,2,3,4,5,6,7)' #placeholder
-           # id_persona = input('Ingrese un numero para el id_persona: ')
-            cursor.execute(sentencia) #de esta manwera ejecutamos la sentencia
-            registros = cursor.fetchall() #cupera todos los registros de la sentencia
+            sentencia = 'SELECT * FROM persona WHERE id_persona IN %s' #placeholder
+            entrada = input('Digite los id_persona a buscar (separados por coma): ')
+            llaves_primarias = (tuple(entrada.split(', ')),) #
+            cursor.execute(sentencia, llaves_primarias) #de esta manwera ejecutamos la sentencia
+            registros = cursor.fetchall() #recupera todos los registros de la sentencia
             for registro in registros:
                 print(registro)
 
