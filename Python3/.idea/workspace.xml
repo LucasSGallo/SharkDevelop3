@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6849b1f-4dcf-4daf-b195-47a5aab42953" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Leccion04/v_registros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion04/v_registros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Magali/PycharmProjects/SharkDevelop3/Python3"
+    "last_opened_file_path": "C:/Users/Magali/PycharmProjects/Tecnicatura3Py/Leccion04/Basededatos"
   }
 }]]></component>
   <component name="RunManager" selected="Python.v_registros">
@@ -116,5 +116,15 @@
       <updated>1684364395732</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leccion04/v_registros.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
