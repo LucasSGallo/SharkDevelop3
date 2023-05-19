@@ -16,7 +16,7 @@ public class InstanceOf {
         empleado1 = new Gerente("Jose ", 5000, "Sistemas");
         instance_of(empleado1);
             //DOWNCASTING
-            //((Escritor)empleado).getTipoEscritura();
+            //((Escritor)empleado).ObtenerDetalles();
             //UPCASTING
             //Escritor escritor = empleado;
             //escritor.getTipoEscritura();
