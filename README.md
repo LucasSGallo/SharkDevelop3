@@ -65,7 +65,7 @@
 
 </div>
 
-<div> Acceso al tablero de JS ShatkDevelop</div>
+<div> Acceso al tablero de JS SharkDevelop</div>
 <a href="https://github.com/orgs/CodeSystem2022/projects/281">https://github.com/orgs/CodeSystem2022/projects/281</a>
 
 ###
