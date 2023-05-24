@@ -20,7 +20,7 @@
 <p align="center">🦈José Carmona <br>🦈Melisa Riera<br>🦈Alejandra Carballeira<br>🦈Facundo Rojo<br>🦈Gabriel Valdés <br>🦈Lucas Gallo<br>🦈Magali Cardozo</p>
 
 ###
-
+<h3>Lenguajes</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -28,7 +28,7 @@
 </div>
 <div>
 
-<h1>Scrum Masters</h1>
+<h1> Scrum Masters</h1>
 <table>
   <tr>
     <td>Semana 1</td>
@@ -65,8 +65,4 @@
 </table>
 
 </div>
-
-<div> Acceso al tablero de JS SharkDevelop</div>
-<a href="https://github.com/orgs/CodeSystem2022/projects/281">https://github.com/orgs/CodeSystem2022/projects/281</a>
-
 ###
